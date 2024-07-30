@@ -1,0 +1,65 @@
+## DroidCoolApps (HelgeApps) 隐私政策
+
+上次更新时间：2024 年 7 月 30 日
+
+本隐私政策涵盖了 Android 版“Droid Dashcam - 行车记录仪，BlackBox”应用的使用。
+
+### 信息收集：
+
+我们（DroidCoolApps）个人不会从用户那里收集任何个人信息，并且我们的服务器也未连接到此应用，但我们在应用中使用的第三方库（如 Google Admob）收集的信息除外 - 请查看以下相关信息：
+
+我们的应用使用一些 Google 第三方库（AdMob 用于展示广告、应用内结算用于购买、Firebase 服务），这些库可以从您那里收集一些信息。您可以在以下位置查看其隐私政策：
+- Google Admob [https://support.google.com/admob/answer/6128543](https://support.google.com/admob/answer/6128543)、[https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)、[https://developers.google.com/admob/android/privacy/play-data-disclosure#data_collected_and_shared_automatically](https://developers.google.com/admob/android/privacy/play-data-disclosure#data_collected_and_shared_automatically)
+
+您还可以在 Google Play 上查看每个应用的数据安全部分，以了解第三方库究竟收集了哪些数据。
+
+### 应用权限：
+
+### “Droid Dashcam - 行车记录仪，BlackBox”权限
+- 摄像头、音频（用于视频录制）
+- 存储（用于将语音记录保存到共享“音乐”文件夹，以及用于语音记录删除选项），以防您的设备不支持存储访问框架。对于所有其他设备，您可以使用存储访问框架选择任何没有此权限的文件夹
+- 位置（获取当前位置地址、GPS 坐标、速度 - 在屏幕上显示给用户并录制视频）
+- 互联网（广告）
+- 后台前台服务 - 如果您开始新的录制并返回主屏幕、切换到另一个应用或锁定手机以便能够继续录制，或者如果您打开自动录制功能（如果您关闭后台服务，这些功能将不起作用），则应用将继续在后台运行（通知栏中显示的前台服务）。
+
+### 本隐私政策的变更：
+
+我们可能会不时更新我们的隐私政策。因此，建议您定期查看此页面以了解任何变更。我们将通过在此页面上发布新的隐私政策来通知您任何变更。这些变更在此页面上发布后立即生效。
+
+### 支持或联系
+
+有任何问题？[联系支持](mailto://cooldroidapps4@gmail.com)，我们将为您解答。
+
+### English:
+
+## DroidCoolApps (HelgeApps) Privacy Policy
+
+Last updated July 30, 2024
+
+This privacy policy covers the use of the 'Droid Dashcam - Driving video recorder, BlackBox' app for Android.
+
+### Information Collection:
+
+We (DroidCoolApps) personally DO NOT collect any personal information from users and we do not have any our servers connected to this app, except the information which is collected by third-party libraries (like Google Admob) we use in our apps - please check the following info about it:
+
+Our apps use some Google third-party libraries (AdMob to show ads, In App Billing for purchases, Firebase services) which can collect some information from you. You can check their Private Policy at:
+- Google Admob [https://support.google.com/admob/answer/6128543](https://support.google.com/admob/answer/6128543), [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads), [https://developers.google.com/admob/android/privacy/play-data-disclosure#data_collected_and_shared_automatically](https://developers.google.com/admob/android/privacy/play-data-disclosure#data_collected_and_shared_automatically)
+
+You can also check Data Safety section for each app at Google Play to find out what exactly third-party libraries collect.
+
+### Apps permissions:
+
+### 'Droid Dashcam - Driving video recorder, BlackBox' Permissions
+- CAMERA, AUDIO (for video recording)
+- STORAGE for Android 12 and lower (for saving voice recordings to shared 'MUSIC' folder, and for voice recordings deletion option) in case your device doesn't support the Storage Access Framework. For all other devices you can choose any folder without this permission by using the Storage Access Framework instead
+- LOCATION (to get current location address, gps coords, speed - show it on screen for a user and record on video)
+- INTERNET (ads)
+- Background Foreground Service - The app will continue to run in the background (the foreground service that appears in the notification bar) if you start a new recording and return to the home screen, switch to another app or lock your phone to be able to continue recording, or if you turn on functions for automatic recording (if you close the background service, these functions will not work).
+
+###  Changes to This Privacy Policy:
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+### Support or Contact
+
+Having any questions? [Сontact support](mailto://cooldroidapps4@gmail.com) and we will answer you.
