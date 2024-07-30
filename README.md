@@ -16,7 +16,7 @@
 ### 应用权限：
 
 ### “Droid Dashcam - 行车记录仪，BlackBox”权限
-- ANDROID ID（用于广告）
+- 开放匿名设备标识符 (OAID)（用于个性化广告）
 - 摄像头、音频（用于视频录制）
 - 适用于 Android 12 及更低版本的存储（用于将视频录制保存到共享的“DCIM/MOVIES”文件夹，以及用于视频录制删除选项），以防您的设备不支持存储访问框架。对于所有其他设备，您可以使用存储访问框架选择任何没有此权限的文件夹
 - 位置（获取当前位置地址、GPS 坐标、速度 - 在屏幕上显示给用户并录制视频）
@@ -51,7 +51,7 @@ You can also check Data Safety section for each app at Google Play to find out w
 ### Apps permissions:
 
 ### 'Droid Dashcam - Driving video recorder, BlackBox' Permissions
-- ANDROID ID (for advertising) 
+- The Open Anonymous Device Identifier (OAID) (for personalised advertising) 
 - CAMERA, AUDIO (for video recording)
 - STORAGE for Android 12 and lower (for saving video recordings to shared 'DCIM/MOVIES' folder, and for video recordings deletion option) in case your device doesn't support the Storage Access Framework. For all other devices you can choose any folder without this permission by using the Storage Access Framework instead
 - LOCATION (to get current location address, gps coords, speed - show it on screen for a user and record on video)
