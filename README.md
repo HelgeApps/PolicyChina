@@ -6,12 +6,7 @@
 
 ### 信息收集：
 
-我们（DroidCoolApps）个人不会从用户那里收集任何个人信息，并且我们的服务器也未连接到此应用，但我们在应用中使用的第三方库（如 Google Admob）收集的信息除外 - 请查看以下相关信息：
-
-我们的应用使用一些 Google 第三方库（AdMob 用于展示广告、应用内结算用于购买、Firebase 服务），这些库可以从您那里收集一些信息。您可以在以下位置查看其隐私政策：
-- Google Admob [https://support.google.com/admob/answer/6128543](https://support.google.com/admob/answer/6128543)、[https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)、[https://developers.google.com/admob/android/privacy/play-data-disclosure#data_collected_and_shared_automatically](https://developers.google.com/admob/android/privacy/play-data-disclosure#data_collected_and_shared_automatically)
-
-您还可以在 Google Play 上查看每个应用的数据安全部分，以了解第三方库究竟收集了哪些数据。
+我们（DroidCoolApps）个人不会收集任何用户的个人信息，并且我们的任何服务器也都没有任何连接到此应用程序。
 
 ### 应用权限：
 
@@ -41,12 +36,7 @@ This privacy policy covers the use of the 'Droid Dashcam - Driving video recorde
 
 ### Information Collection:
 
-We (DroidCoolApps) personally DO NOT collect any personal information from users and we do not have any our servers connected to this app, except the information which is collected by third-party libraries (like Google Admob) we use in our apps - please check the following info about it:
-
-Our apps use some Google third-party libraries (AdMob to show ads, In App Billing for purchases, Firebase services) which can collect some information from you. You can check their Private Policy at:
-- Google Admob [https://support.google.com/admob/answer/6128543](https://support.google.com/admob/answer/6128543), [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads), [https://developers.google.com/admob/android/privacy/play-data-disclosure#data_collected_and_shared_automatically](https://developers.google.com/admob/android/privacy/play-data-disclosure#data_collected_and_shared_automatically)
-
-You can also check Data Safety section for each app at Google Play to find out what exactly third-party libraries collect.
+We (DroidCoolApps) personally DO NOT collect any personal information from users and we do not have any our servers connected to this app.
 
 ### Apps permissions:
 
